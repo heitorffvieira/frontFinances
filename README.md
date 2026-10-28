@@ -3,6 +3,12 @@
 Frontend em **React + TypeScript + Vite** para a API de finanças pessoais (Spring Boot).
 Consome exclusivamente a API REST; não acessa o Supabase e não guarda despesas localmente.
 
+## Anexos:
+<img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/4a57e060-44b4-4f29-b9d7-77b1576d30a5" />
+<img width="1913" height="1017" alt="image" src="https://github.com/user-attachments/assets/ebd38fb4-ad1b-42a7-931b-e8ba97faaa78" />
+<img width="1910" height="1020" alt="image" src="https://github.com/user-attachments/assets/1b75e908-e91f-40d9-a951-ada0a2cb9cfe" />
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/e3242e2c-ff6e-4708-88f3-966fd28b58cb" />
+
 ## Requisitos
 
 - Node.js 18 ou superior
